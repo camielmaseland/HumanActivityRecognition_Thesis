@@ -23,7 +23,7 @@ The following open source packages are used in this project:
 
     code
     .
-    ├── Raw data
+    ├── Data
     |   ├── Totalset+slopes+mean+sd.csv
     ├── Data Handling
     |   ├── preprocessing.ipynb
