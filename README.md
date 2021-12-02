@@ -28,12 +28,14 @@ The following open source packages are used in this project:
     ├── Data Handling
     |   ├── preprocessing.ipynb
     |   ├── batching.ipynb
-    |   ├── combinging.ipynb  
+    |   ├── combinging.ipynb 
+    |
     ├── Model notebooks
     |   ├── Modelling_Vanilla_Algorithms - Decision trees_Final.ipynb
     |   ├── Modelling_Vanilla_Algorithms - Multinomial Logistic Regression.ipynb  
     |   ├── CNN_Impersonal_RawData.ipynb    
     |   ├── CNN_Personal_RawData.ipynb 
+    |
     ├── Visualization_Final.ipynb
     
     
