@@ -4,6 +4,7 @@ Human Activity Recognition, exploring different sensor-types with RealWorld HAR 
 Author: P.C.O. Maseland
 Date: 03-12-2021
 
+
 ![-----------------------------------------------------]
 <!-- PREREQUISITES -->
 
