@@ -5,8 +5,7 @@ Author: P.C.O. Maseland
 Date: 03-12-2021
 
 
-![-----------------------------------------------------]
-<!-- PREREQUISITES -->
+<h2 id="prerequisites"> Prerequisites</h2>
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) <br>
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try) <br>
@@ -20,8 +19,7 @@ The following open source packages are used in this project:
 * Scikit-Learn
 
 
-![-----------------------------------------------------]
-<!-- FOLDER STRUCTURE -->
+<h2 id="folder-structure">Folder Structure</h2>
     code
     .
     ├── Raw data
