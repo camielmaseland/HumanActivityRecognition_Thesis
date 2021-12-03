@@ -29,12 +29,15 @@ The following open source packages are used in this project:
     |   ├── preprocessing.ipynb
     |   ├── batching.ipynb
     |   ├── combinging.ipynb 
+    |   
     |
     ├── Model notebooks
-    |   ├── Modelling_Vanilla_Algorithms - Decision trees_Final.ipynb
-    |   ├── Modelling_Vanilla_Algorithms - Multinomial Logistic Regression.ipynb  
-    |   ├── CNN_Impersonal_RawData.ipynb    
-    |   ├── CNN_Personal_RawData.ipynb 
+    |   ├── Modelling_Vanilla_Algorithms - Decision tree_Final.ipynb
+    |   ├── Modelling_Vanilla_Algorithms - Feature Selection_Final.ipynb 
+    |   ├── Modelling_Vanilla_Algorithms - Multinomial Logistic Regression_Final.ipynb 
+    |   ├── Modelling_Vanilla_Algorithms - RandomForest_Final.ipynb
+    |   ├── Modelling_Vanilla_Algorithms - Gridsearch MLR_Final.ipynb    
+    |   ├── Modelling_Vanilla_Algorithms - Gridsearch RF_Final.ipynb 
     |
     ├── Visualization_Final.ipynb
     
