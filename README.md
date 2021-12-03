@@ -20,15 +20,24 @@ The following open source packages are used in this project:
 
 
 <h2 id="folder-structure">Folder Structure</h2>
+In data handling file notebooks can be found for preparing the data before modeling it. This follows the structure of 1. data preperation for acc, gyr and mag sensors. 2. Combining these three sets. 3. Creating batches and extract features. Also preperation of other sensors can be found here, although they are not used for modelling. <br>
+
+Further, in Data folder, a google drive link to the Totalset+slopes+mean+sd.csv file can be found that is used for modelling. <br>
+
+At last in the model notebooks folder all notebooks neccesary for feature selection, gridsearch and modelling of DT, MLR and RF can be found.
 
     code
     .
+    ├── Data Handling
+    |   ├── 1.Data Preperation_Final.ipynb
+    |   ├── 2.Combined Dataset_Final.ipynb
+    |   ├── 3.Batches_Feature Extraction_Final.ipynb
+    |   ├── _Data Preperation-GPS.ipynb
+    |   ├── _Data Preperation-Light.ipynb
+    |   ├── _Data Preperation-Mic.ipynb
+    |
     ├── Data
     |   ├── Totalset+slopes+mean+sd.csv
-    ├── Data Handling
-    |   ├── preprocessing.ipynb
-    |   ├── batching.ipynb
-    |   ├── combinging.ipynb 
     |
     ├── Model notebooks
     |   ├── Modelling_Vanilla_Algorithms - Decision tree_Final.ipynb
