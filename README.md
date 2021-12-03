@@ -20,6 +20,7 @@ The following open source packages are used in this project:
 
 
 <h2 id="folder-structure">Folder Structure</h2>
+
 In data handling file notebooks can be found for preparing the data before modeling it. 
 This follows the structure of
 * 1. data preperation for acc, gyr and mag sensors. 
