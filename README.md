@@ -1,7 +1,7 @@
 # HumanActivityRecognition_Thesis
 Human Activity Recognition, exploring different sensor-types with RealWorld HAR dataset
 
-Author: P.C.O. Maseland
+Author: P.C.O. Maseland <br>
 Date: 03-12-2021
 
 
