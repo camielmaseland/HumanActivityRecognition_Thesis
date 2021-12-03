@@ -24,7 +24,9 @@ In data handling file notebooks can be found for preparing the data before model
 
 Further, in Data folder, a google drive link to the Totalset+slopes+mean+sd.csv file can be found that is used for modelling. <br>
 
-At last in the model notebooks folder all notebooks neccesary for feature selection, gridsearch and modelling of DT, MLR and RF can be found.
+in the model notebooks folder all notebooks neccesary for feature selection, gridsearch and modelling of DT, MLR and RF can be found. <br>
+
+At last the used visualizations found in de visualization.ipynb file.
 
     code
     .
