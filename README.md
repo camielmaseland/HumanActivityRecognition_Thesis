@@ -20,7 +20,12 @@ The following open source packages are used in this project:
 
 
 <h2 id="folder-structure">Folder Structure</h2>
-In data handling file notebooks can be found for preparing the data before modeling it. This follows the structure of 1. data preperation for acc, gyr and mag sensors. 2. Combining these three sets. 3. Creating batches and extract features. Also preperation of other sensors can be found here, although they are not used for modeling. <br>
+In data handling file notebooks can be found for preparing the data before modeling it. 
+This follows the structure of
+* 1. data preperation for acc, gyr and mag sensors. 
+* 2. Combining these three sets. 
+* 3. Creating batches and extract features. 
+* Also preperation of other sensors can be found here, although they are not used for modeling. <br>
 
 Further, in Data folder, a google drive link to the Totalset+slopes+mean+sd.csv file can be found that is used for modeling. <br>
 
